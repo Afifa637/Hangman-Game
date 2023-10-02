@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695584359 source:e:\c++ code\final\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<conio.h>
+

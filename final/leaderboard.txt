@@ -1,0 +1,7 @@
+afifa: 30
+afifa: 100
+AFRIDA: 90
+MAOWA: 30
+Afifa: 30
+ADIBA: 30
+AFI: 60
