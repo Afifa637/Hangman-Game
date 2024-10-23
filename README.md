@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hangman Game - ReadMe</title>
-</head>
 <body>
 
 <h1>Hangman Game</h1>
